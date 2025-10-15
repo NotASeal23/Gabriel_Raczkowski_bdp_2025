@@ -1,1 +1,1 @@
-aaa
+CREATE DATABASE firma
