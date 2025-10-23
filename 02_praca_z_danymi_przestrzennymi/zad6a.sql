@@ -1,0 +1,3 @@
+
+
+SELECT SUM(ST_LENGTH(geometry)) FROM roads;
